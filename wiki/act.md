@@ -20,7 +20,7 @@
 
 
 
-<a name="footnote_1">1</a>: 주석쓰
+<a name="footnote_1">1</a>: 소숫점은 제외한 숫자이다.
 
 
 
