@@ -24,10 +24,10 @@
 
 >5살때부터 7살 떄까지 세종 미술학원<sup>[3](#footnote_3)</sup><sup>[4](#footnote_4)</sup>이라는 곳에서 유치원을 다니었다. 
 ---
-<a name="footnote_1">[1]</a>: 소숫점은 제외한 숫자이다.
-<a name="footnote_2">[2]</a>: 2021-12-23일 까지를 의미한다.
-<a name="footnote_3">[3]</a>: 당시 미술학원이 유치원을 겸했었다.
-<a name="footnote_4">[4]</a>: 현재는 사라진지 오래이다.
+<a name="footnote_1">[1]</a>: 소숫점은 제외한 숫자이다.  
+<a name="footnote_2">[2]</a>: 2021-12-23일 까지를 의미한다.  
+<a name="footnote_3">[3]</a>: 당시 미술학원이 유치원을 겸했었다.  
+<a name="footnote_4">[4]</a>: 현재는 사라진지 오래이다.  
 
 
 
